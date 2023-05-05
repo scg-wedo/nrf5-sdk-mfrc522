@@ -4,7 +4,7 @@
 * Released into the public domain.
 */
 
-#if defined(SUPPORT_RFID_READER)
+#if defined(TRACKER_BOARD)
 
 #include "MFRC522.h"
 #include "FreeRTOS.h"

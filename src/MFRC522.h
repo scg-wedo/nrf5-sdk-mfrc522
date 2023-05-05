@@ -8,7 +8,7 @@
  * Please read this file for an overview and then MFRC522.cpp for comments on the specific functions.
  */
 
-#if defined(SUPPORT_RFID_READER)
+#if defined(TRACKER_BOARD)
 
 #ifndef MFRC522_h
 #define MFRC522_h
